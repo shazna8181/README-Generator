@@ -22,7 +22,7 @@
    > MIT
 
   ## Contributing 
-   > Please contact me on Github page
+   > Please contact me on Github page.
 
   ## Tests
    > The application tested within local environment and output was successful.
