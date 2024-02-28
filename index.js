@@ -71,7 +71,7 @@ inquirer
   ])
   .then((data) => {
     //console.log(data);
-    fs.writeFile('Generated README.md', generateMarkdown(data), (err) =>
+    fs.writeFile('README.md', generateMarkdown(data), (err) =>
   err ? console.error(err) : console.log('Success!')
   );
 
