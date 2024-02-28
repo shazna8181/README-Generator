@@ -2,7 +2,7 @@
   # README Generator
 
   ##  Description 
-    Purpose of this application is to create a high quality README file. This command-line application dynamically generates a professional README.md file from a user's input
+    Purpose of this application is to create a high quality README file. This command-line application dynamically generates a professional README.md file from a user's input.
 
   ## Table of Contents 
    - [Installation](#installation)
@@ -16,7 +16,7 @@
    > - clone the github repository into your local machine.Download Recommended for most users(LTS) version of Node from Nodejs.  - 'npmjs.com': npm is a Node Package Manager to bring all the libraries we 'require' in order to run a certain programme.  - To setup npm type this command in terminal "npm init -y".  - Now we have our package.json.  - Next, install 'inquirer' prompt: "npm install inquirer"
 
   ## Usage 
-   >  Make sure you are in the right folder path in the terminal.Run node index.js.It will prompt questions to input answers.Once completed above steps it will generate a README.MD file.
+   > - Make sure you are in the right folder path in the terminal.Run node index.js.It will prompt questions to input answers.Once completed above steps it will generate a README.MD file.
 
   ## License 
    > MIT
