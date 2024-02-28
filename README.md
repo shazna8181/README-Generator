@@ -12,6 +12,10 @@
    - [Tests](#tests)
    - [Questions](#questions)
   
+
+https://github.com/shazna8181/README-Generator/assets/152108800/8f3aaa22-c67d-4d62-a1ca-819aa9ea9bfa
+
+
   ## Installation 
    > - clone the github repository into your local machine.Download Recommended for most users(LTS) version of Node from Nodejs.  - 'npmjs.com': npm is a Node Package Manager to bring all the libraries we 'require' in order to run a certain programme.  - To setup npm type this command in terminal "npm init -y".  - Now we have our package.json.  - Next, install 'inquirer' prompt: "npm install inquirer"
 
